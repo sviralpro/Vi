@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Video de Bryan Adams - Heaven</title>
+  <title>Video Heaven</title>
 </head>
 <body style="background-color: #f0f0f0; text-align: center; font-family: Arial, sans-serif;">
 
@@ -16,7 +16,7 @@
     allowfullscreen>
   </iframe>
 
-  <p>Este es el videoclip oficial remasterizado en 4K. ¡Espero que lo disfrutes!</p>
+  
 
 </body>
 </html>
